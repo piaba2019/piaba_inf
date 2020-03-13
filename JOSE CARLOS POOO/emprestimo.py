@@ -5,4 +5,4 @@ if salario > 2000 and idade > 18:
     print ("Seu CRÉDITO está APROVADO!")
 
 else:
-     print ("seu CRÉDITO foi RECUSADO!")
+     print ("seu CRÉDITO foi RECUSADO!aaaaaaaaaaaaaaaaaaaaaa")
